@@ -5,8 +5,9 @@
 People find it difficult to visit a bookstore in-person whenever they require any book. This causes a necessity to design a system that gives an alternative mode of buying the required books from wherever they are.
 
 **Preview of the project:**
-[![Video Preview](/preview.png)](/video.mp4)
 
+Click to watch the preview of the website : 
+https://drive.google.com/file/d/13LPk80gFjQFMtTDV9z8ERIaq-TZMF_BH/view?usp=sharing
 
 **Project Justification:**
 
