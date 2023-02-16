@@ -4,6 +4,10 @@
 
 People find it difficult to visit a bookstore in-person whenever they require any book. This causes a necessity to design a system that gives an alternative mode of buying the required books from wherever they are.
 
+**Preview of the project
+[![Video Preview](/preview.png)](/video.mov)
+
+
 **Project Justification:**
 
 A system to purchase books online and to store the inventory data securely can be built using MySQL inside the GCP environment. This system gives people an alternative mode of buying required books online on a first come first serve basis, rather than visiting the store.
